@@ -1,3 +1,3 @@
-# smartdpv firmware ressources and manual
+# SMARTDPV Firmware ressources and manuals
 
-[To continue go on the wiki page for manual/instruction/documentation](wiki/home)
+[To continue go to the wiki](../../wiki/home)
